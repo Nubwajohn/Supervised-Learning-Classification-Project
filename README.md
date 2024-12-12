@@ -56,6 +56,7 @@ The primary dataset utilized for this analysis is the “INNHotelsGroup.csv” f
 - Data Manipulation & Analysis Libraries: Pandas, NumPy.
 - Data Visualization Libraries: Matplotlib, Seaborn.
 - Machine Learning Library: Scikit-Learn, sklearn.
-- Model for prediction: statsmodels.stats, statsmodels.api
+- Metric scores: sklearn.metrics
+- Model for prediction: statsmodels.stats, statsmodels.api, sklearn.model_selection.
 - Filtering Warnings: warnings, ConvergenceWarning.
 - Data Preprocessing & Exploratory Data Analysis (EDA) Tools:Excel, Google Colab.
